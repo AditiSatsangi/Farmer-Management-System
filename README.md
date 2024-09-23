@@ -40,6 +40,16 @@ These are binary files used to store data in the system. For example:<br>book1.b
 <br>student.bin: Stores data related to students who are interacting with the library.
 <br>temp1.bin: Used as a temporary storage file for intermediate processing.
 
+### Execution
+![image](https://github.com/user-attachments/assets/73d369bd-b796-4f53-8486-cdb90ac46365)
+<br>
+![image](https://github.com/user-attachments/assets/db90293a-8197-4098-82d7-9683b95072ac) <br>
+![image](https://github.com/user-attachments/assets/83a53b5e-de15-4ef4-bff9-d9ec54d7d62c) <br>
+![image](https://github.com/user-attachments/assets/e4b3cf28-37cb-4b17-a7cc-837bfb941519) <br>
+![image](https://github.com/user-attachments/assets/2b661df4-2f4e-488b-b575-f31be5e42bfa) <br>
+![image](https://github.com/user-attachments/assets/e23c45c1-afdc-40f4-a7b4-b1a97de032e4)
+
+
 ## Built With
 
 * [C++11](https://en.cppreference.com/w/cpp) - Programming Language 
