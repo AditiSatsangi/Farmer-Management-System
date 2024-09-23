@@ -22,7 +22,6 @@ been used for the development of it. To store the data it uses C++ OOPs and file
 3. Open your IDE and load the program and run the program.
 
 ### Folder Structure
-explanation of their likely purposes:
 
 1. ABOUT.txt:
 This file contains a description of the project, its purpose, or other important details regarding the software. It has been recently updated.
