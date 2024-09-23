@@ -37,11 +37,9 @@ These are executable files generated from project. They allow the software to be
 This is the source code file for the project, written in C++. It contains the logic and functionality of the Library Management System.
 
 5. book1.bin, student.bin, and temp1.bin:
-These are binary files used to store data in the system. For example:
-
-book1.bin: Stores data related to books in the library.
-student.bin: Stores data related to students who are interacting with the library.
-temp1.bin: Used as a temporary storage file for intermediate processing.
+These are binary files used to store data in the system. For example:<br>book1.bin: Stores data related to books in the library.
+<br>student.bin: Stores data related to students who are interacting with the library.
+<br>temp1.bin: Used as a temporary storage file for intermediate processing.
 
 ## Built With
 
